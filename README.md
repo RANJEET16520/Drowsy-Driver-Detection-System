@@ -30,7 +30,7 @@ Installation of Tensoflow-GPU from official Tensorflow GPU support.
 
 ### Publication
 
-+ This is a Research Based Project and Data can not be shared as per NTHU certification. And Reseerch Publication has been submitted. 
++ This is a Research Based Project and Data can not be shared as per NTHU certification. And Research Publication has been submitted. 
 
 Thank you for visiting.
 
