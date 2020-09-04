@@ -11,7 +11,7 @@ It is a driver fatigue detection system built with the NTHU-DDD video dataset in
 
 
 ### Data Collection
-The Drowsy Driver Dataset is collected from National Tsing Hua University with a Non-Discloser Agreement.
+The Drowsy Driver Dataset is collected from National Tsing Hua University with a Non-Discloser Agreement. [NTHU](http://nthu-en.site.nthu.edu.tw/)
 
 ### Technologies Used
 Deep Learning, Transfer Learning, Image Processing.
@@ -25,7 +25,7 @@ python 3
 
 pip3 
 
-Installation of Tensoflow-GPU
+Installation of Tensoflow-GPU from [tf-GPU](https://www.tensorflow.org/install/gpu)
 ```
 
 ##### Setup to run
@@ -34,5 +34,4 @@ Installation of Tensoflow-GPU
 
 Thank you for visiting.
 
-Don't forget to give a star!!
 
