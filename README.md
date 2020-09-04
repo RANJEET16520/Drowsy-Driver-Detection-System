@@ -25,7 +25,7 @@ python 3
 
 pip3 
 
-Installation of Tensoflow-GPU from [tf-GPU](https://www.tensorflow.org/install/gpu)
+Installation of Tensoflow-GPU from. [tf-GPU](https://www.tensorflow.org/install/gpu)
 ```
 
 ##### Setup to run
