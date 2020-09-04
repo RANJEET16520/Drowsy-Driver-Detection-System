@@ -28,10 +28,17 @@ pip3
 Installation of Tensoflow-GPU from official Tensorflow GPU support.
 ```
 
-##### Setup to run
+### Publication
 
-+ This is a Research Based Project and Data can not be shared as per NTHU certification.
++ This is a Research Based Project and Data can not be shared as per NTHU certification. And Reseerch Publication has been submitted. 
 
 Thank you for visiting.
+
+### Contributors
+
+[Ranjeet Walia](https://github.com/RANJEET16520)
+
+[Shivam Sharma](https://github.com/RANJEET16520)
+
 
 
